@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/action_terco"
+            android:icon="@drawable/ic_add_black_24px"
+            android:title="@string/opcao_terco">
+        </item>
+
+        <item
+            android:id="@+id/action_oracoes"
+            android:icon="@drawable/ic_vpn_key_black_24px"
+            android:title="@string/opcao_oracoes">
+        </item>
+
+        <item
+            android:id="@+id/action_trabalhos"
+            android:icon="@drawable/ic_work_black_24px"
+            android:title="@string/opcao_trabalhos">
+        </item>
+
+        <item
+            android:id="@+id/action_eventos"
+            android:icon="@drawable/ic_event_black_24px"
+            android:title="@string/opcao_eventos">
+        </item>
+
+
+        <item
+            android:id="@+id/action_ordemReuniao"
+            android:icon="@drawable/ic_list_black_24px"
+            android:title="@string/opcao_ordemReuniao">
+        </item>
+
+        <item
+            android:id="@+id/action_oracaoFrank"
+            android:icon="@drawable/ic_account_circle_black_24px"
+            android:title="@string/opcao_oracaoFrank">
+        </item>
+
+        <item
+            android:id="@+id/action_settings"
+            android:icon="@drawable/ic_settings_black_24px"
+            android:title="@string/opcao_settings">
+        </item>
+    </group>
+
+</menu>

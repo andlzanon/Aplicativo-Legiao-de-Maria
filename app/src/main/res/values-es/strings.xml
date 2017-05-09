@@ -1,0 +1,232 @@
+<resources>
+    <string name="app_name">Legio Mariae</string>
+
+    <string name="opcao_eventos">Eventos</string>
+    <string name="opcao_terco">Rosário</string>
+    <string name="opcao_oracoes">Tessera</string>
+    <string name="opcao_trabalhos">Trabajos</string>
+    <string name="opcao_ordemReuniao">La Reunión Semanal</string>
+    <string name="opcao_oracaoFrank">Oración a Frank Duff</string>
+    <string name="opcao_settings">Ajustes del Legionario</string>
+
+    <string name="activity_novo_evento">Nuevo Evento</string>
+    <string name="salvar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+
+    <string name="nome_evento">Nombre del Evento</string>
+    <string name="hint_nome_evento">Indroduzca el nombre</string>
+    <string name="local_evento">Lugar del Evento</string>
+    <string name="hint_local_evento">Indroduzca el nombre del evento</string>
+    <string name="horario_evento">Horario del Evento</string>
+    <string name="hint_horario_evento">Clic aquí para ajustar la hora</string>
+    <string name="data_evento">Fecha del Evento</string>
+    <string name="hint_data_evento">Clic aquí para ajustar la fecha</string>
+
+    <string name="dialogNome">Nombre</string>
+    <string name="hintDialogNome">Ex. Evangelización</string>
+    <string name="dialogQtade">Cantidad</string>
+    <string name="hintDialogQtade">Ex. 1</string>
+    <string name="dialogTitulo">Nuevo Trabajo</string>
+    <string name="dialogExecption">Ops, algún campo no se lleno</string>
+
+    <string name="delete">Excluir</string>
+    <string name="mensagem_lixo_evento">\tPara insertar un nuevo evento clic en el lápiz.\n
+        \tPara ecluir arrastar el evento a la izquierda oa la derecha</string>
+
+    <string name="mensagem_lixo_trabalho">\tPara insertar un nuevo trabajo clic en el lápiz.\n
+        \tPara ecluir arrastar el trabajo a la izquierda oa la derecha</string>
+
+    <string name="key_nome_perfil">nome</string>
+    <string name="key_nome_presidium">presidium</string>
+    <string name="key_foto_perfil">foto</string>
+    <string name="key_foto_modificada">modificou</string>
+
+    <string name="foto_perfil">Foto de Perfil</string>
+    <string name="nome_usuario">Nombre de usuario</string>
+    <string name="nome_setting_dialog">Indroduzca su nombre</string>
+    <string name="nome_praesidium">Nombre de Praesidium</string>
+    <string name="nome_paesidium_settings_dialog">Indroduzca el nome de su praesidium</string>
+
+    <string name="default_nome_perfil">Poner su nombre y de su presidium</string>
+    <string name="default_nome_presidium">en Ajustes del Legionario</string>
+    <string name="default_summary_foto">Fijar su foto de perfil</string>
+
+    <string name="content_description">Foto de perfil</string>
+
+    <string-array name="tercos">
+        <item>Gozoso</item>
+        <item>Glorioso</item>
+        <item>Luminoso</item>
+        <item>Doloroso</item>
+    </string-array>
+
+    <string-array name="oracoes">
+        <item>Al Empezar</item>
+        <item>Catena</item>
+        <item>Finales</item>
+    </string-array>
+
+    <string name="eventos">Eventos</string>
+
+    <string-array name="Gozoso">
+        <item>Lunes y Sábado</item>
+        <item>1º Misterio: La Encarnación del Hijo de Dios</item>
+        <item>2º Misterio: La Visitación de Nuestra Señora a Santa Isabel</item>
+        <item>3º Misterio: El Nacimiento del Hijo de Dios</item>
+        <item>4º Misterio: La Purificación de la Virgen Santísima</item>
+        <item>5º Misterio: La Pérdida del Niño Jesús y su hallazgo en el templo</item>
+    </string-array>
+
+    <string-array name="Luminoso">
+        <item>Jueves</item>
+        <item>1º Misterio: El Bautismo de Jesús en el Jordán</item>
+        <item>2º Misterio: La Autorrevelación de Jesús en las bodas de Caná</item>
+        <item>3º Misterio: El anuncio del Reino de Dios invitando a la conversión</item>
+        <item>4º Misterio: La Transfiguración</item>
+        <item>5º Misterio: La institución de la Eucaristía</item>
+    </string-array>
+
+    <string-array name="Doloroso">
+        <item>Martes y Viernes</item>
+        <item>1º Misterio: La Oración de Nuestro Señor en el Huerto</item>
+        <item>2º Misterio: La Flagelación del Señor</item>
+        <item>3º Misterio: La Coronación de espinas</item>
+        <item>4º Misterio: El Camino del Monte Calvario</item>
+        <item>5º Misterio: La Crucifixión y Muerte de Nuestro Señor</item>
+    </string-array>
+
+    <string-array name="Glorioso">
+        <item>Miércoles y Domingo</item>
+        <item>1º Misterio: La Resurrección del Señor</item>
+        <item>2º Misterio: La Ascensión del Señor</item>
+        <item>3º Misterio: La Venida del Espíritu Santo</item>
+        <item>4º Misterio: La Asunción de Nuestra Señora a los Cielos</item>
+        <item>5º Misterio: La Coronación de la Santísima Virgen</item>
+    </string-array>
+
+    <string name="oracoes_iniciais">
+
+        Ven, Espíritu Santo, llena los corazones de tus fieles y enciende en ellos el fuego de tu amor.\n\n
+        V. Envía, Señor, tu Espíritu y todo será creado.\n
+        R. Y renovarás la faz de la tierra.\n\n
+
+        V.Oremos: Oh Dios, Padre nuestro, derrama los dones de tu Espíritu sobre el mundo: enviaste al Espíritu a tu Iglesia para iniciar la enseñanza del Evangelio; que sea ahora tu Espíritu el que continúe trabajando en el mundo a través de los corazones de todos los que creen en Ti. Por Cristo nuestro Señor. Amén.\n\n
+        V. Señor, ábreme los labios.\n
+        R. Y mi boca proclamará tus alabanzas.\n\n
+        V. Oh Dios, ven en mi auxilio.\n
+        R. Señor, date prisa en socorrerme.\n\n
+        V. Gloria al Padre, y al Hijo, y al Espíritu Santo.\n
+        R. Como era en el principio, ahora y siempre, por los siglos de los siglos, Amén.\n\n
+
+        (Se reza el Santo Rosario y la Salve.).\n\n
+
+        V. Ruega por nosotros, santa Madre de Dios.\n
+        R. Para que seamos dignos de las promesas de Jesucristo.\n\n
+
+        V. Oremos: Oh Dios, cuyo Hijo Unigénito, nos obtuvo la salvación eterna por medio de su vida,
+        muerte y resurrección; concédenos a quienes meditamos estos misterios en el rosario de la bienaventurada
+        Virgen María, imitar lo que enseñan y alcanzar lo que prometen. Por Jesucristo nuestro Señor. Amén.\n\n
+        V. Sacratísimo Corazón de Jesús,\n
+        R. Ten piedad de nosotros.\n
+        V. Inmaculado Corazón de María,\n
+        R. Ruega por nosotros.\n
+        V. San José,\n
+        R. Ruega por nosotros.\n
+        V. San Juan Evangelista,\n
+        R. Ruega por nosotros.\n
+        V. San Luis María de Montfort,\n
+        R. Ruega por nosotros.\n\n
+        En el nombre del Padre, y del Hijo y del Espíritu Santo. Amén.
+    </string>
+
+
+    <string name="catena">
+        Antífona.- ¿Quién es Esta que va subiendo cual aurora naciente, bella como la luna, brillante como el sol, terrible como un ejército formado en batalla?\n\n
+
+        - Proclama mi alma la grandeza del Señor, se alegra mi espíritu en Dios mi Salvador; porque ha mirado la humillación de su esclava.\n
+        - Desde ahora me felicitarán todas las generaciones, porque el Poderoso ha hecho obras grandes por mí; su nombre es santo, y su misericordia llega a sus fieles de generación en generación.\n
+        - Él hace proezas con su brazo; dispersa a los soberbios de corazón, derriba del trono a los poderosos, enaltece a los humildes, a los hambrientos los colma de bienes, y a los ricos los despide vacíos.\n
+        - Él hace proezas con su brazo; dispersa a los soberbios de corazón, derriba del trono a los poderosos,
+        enaltece a los humildes, a los hambrientos los colma de bienes, y a los ricos los despide vacíos.\n
+        - Auxilia a Israel, su siervo, acordándose de la misericordia -como lo había prometido a nuestros padres- en favor de Abrahán y su descendencia por siempre.\n
+        - Gloria al Padre, y al Hijo, y al Espíritu Santo. Como era en el principio, ahora y siempre por los siglos de los siglos. Amén.\n
+
+        Antífona.- ¿Quién es Esta que va subiendo cual aurora naciente, bella como la luna, brillante como el sol, terrible como un ejército formado en batalla?\n\n
+
+        V. Oh María, sin pecado concebida,\n
+        R. Ruega por nosotros que recurrimos a Ti.\n\n
+
+        V. Oremos:  Oh Señor Jesucristo, medianero nuestro delante del Padre, que constituiste a la santísima Virgen, tu Madre, madre nuestra y medianera ante de Ti,
+        haz que cuantos a Ti acudieren para pedirte beneficios se gocen de haberlo conseguido todo por Ella. Amén.
+    </string>
+
+    <string name="oracoes_finais">
+        En el nombre del Padre, y del Hijo y del Espíritu Santo. Amén.
+
+         Bajo tu protección nos acogemos, santa Madre de Dios; no deseches las súplicas que te dirigimos en nuestras necesidades;
+        antes bien, líbranos siempre de todo peligro, oh Virgen gloriosa y bendita.\n\n
+
+        V. (Invocación propia del praesidium).\n
+        R. Ruega por nosotros.\n\n
+        V. María Inmaculada, medianera de todas las gracias.\n
+        R. Ruega por nosotros.\n\n
+        V. San Miguel y San Gabriel.\n
+        R. Rogad por nosotros.\n\n
+        V. Todas las Potestades del Cielo, Legión angélica de María.\n
+        R. Rogad por nosotros.\n\n
+        V. San Juan Bautista.\n
+        R. Ruega por nosotros.\n\n
+        V. Santos Pedro y Pablo.\n
+        R. Rogad por nosotros.\n\n
+
+        Señor, concédenos a cuantos servimos bajo el estandarte de María, la plenitud de fe en ti y confianza en Ella, a las que se ha concedido la conquista del mundo.
+        Concédenos una fe viva, que, animada por la caridad, nos habilite para hacer todas nuestras acciones por puro amor a
+        Ti, y a verte y servirte en nuestro prójimo; una fe firme e inconmovible como una roca, por la cual estemos tranquilos
+        y seguros en las cruces, afanes y desengaños de la vida; una fe valerosa, que nos inspire comenzar y llevar a cabo sin
+        vacilación, grandes empresas por tu gloria y por la salvación de las almas; una fe que sea la Columna de Fuego de nuestra
+        Legión, que hasta el fin nos lleve unidos, que encienda en todas partes el fuego de tu amor, que ilumine a aquellos
+        que están en oscuridad y sombra de muerte, que inflame a los tibios, que resucite a los muertos por el pecado;
+        y que guíe nuestros pasos por el Camino de la Paz, para que,
+        terminada la lucha de la vida, nuestra Legión se reúna sin pérdida alguna en el reino de tu amor y gloria. Amén.\n\n
+
+        V. Las almas de nuestros legionarios, y las almas de todos los fieles difuntos descansen en paz por la misericordia de Dios.- Amén. \n\n
+        En el nombre del Padre, y del Hijo y del Espíritu Santo. Amén.
+
+    </string>
+
+    <string name="oracao_frank_duff">
+        Dios, Padre Nuestro.\n\n
+        Tú que iluminaste a tu siervo Frank Duff con un conocimiento profundo del
+        misterio de tu Iglesia como Cuerpo de Cristo y del lugar que ocupa María la
+        Madre de Jesús, en este misterio.\n\n
+        En su inmenso deseo de compartir este conocimiento con los demás. Y en filial
+        dependencia de María, el formó su Legión para que fuera un signo de su amor
+        de Madre para con la humanidad, y un medio para enrolar a todos sus hijos en
+        la obra evangelizadora de la iglesia.\n\n
+        Te damos gracias, Padre por los dones con que le dotaste y por los beneficios
+        obtenidos para la iglesia por su fe intrépida y radiante.\n\n
+        Te suplicamos confiadamente que por su intercesión nos concedas esta gracia: …\n\n
+        Te pedimos también que, si es tu voluntad, sea reconocida por la iglesia la
+        santidad de su vida, para gloria de tu nombre.\n\n
+        Por Jesucristo Nuestro Señor,\n\n
+        Amén.
+    </string>
+
+    <string name="ordem_da_reuniao">
+        1- Oraciones Iniciales\n\n
+        2- Lectura Espiritual\n\n
+        3- Lectura del Ata\n\n
+        4- Ordenanzas fijas\n\n
+        5- Bienvenida a los nuevos socios\n\n
+        6- Informe de tesorería\n\n
+        7- Reclutamiento de miembros activos\n\n
+        8- Catena - Allocutio\n\n
+        9- Colecta Secreta\n\n
+        10- Informe de los socios (continuación)\n\n
+        11- Asignación de trabajos\n\n
+        12- Estudio del Manual\n\n
+        13- Asuntos Varios\n\n
+        14- Oraciones finales
+    </string>
+
+</resources>

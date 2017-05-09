@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="2dp"
+    app:cardElevation="2dp"
+    app:contentPadding="16dp"
+    android:clickable="true"
+    app:cardUseCompatPadding="true"
+    android:id="@+id/cardview">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/quantidadeTrabalho"
+            android:paddingStart="24dp"
+            android:paddingEnd="24dp"
+            android:paddingLeft="24dp"
+            android:textSize="24sp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/nomeTrabalho"
+            android:paddingStart="24dp"
+            android:paddingEnd="24dp"
+            android:paddingLeft="24dp"
+            android:textSize="24sp"
+            android:textColor="#000000"/>
+
+    </LinearLayout>
+
+
+</android.support.v7.widget.CardView>

@@ -1,0 +1,227 @@
+<resources>
+    <string name="app_name">Legio Mariae</string>
+
+    <string name="opcao_eventos">Eventos</string>
+    <string name="opcao_terco">Terço</string>
+    <string name="opcao_oracoes">Téssera</string>
+    <string name="opcao_trabalhos">Trabalhos Legionários</string>
+    <string name="opcao_ordemReuniao">Ordem da Reunião</string>
+    <string name="opcao_oracaoFrank">Oração a Frank Duff</string>
+    <string name="opcao_settings">Configurações do Legionário</string>
+
+    <string name="activity_novo_evento">Novo Evento</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+
+    <string name="nome_evento">Nome do Evento</string>
+    <string name="hint_nome_evento">Digite o nome</string>
+    <string name="local_evento">Local do Evento</string>
+    <string name="hint_local_evento">Digite o nome do local</string>
+    <string name="horario_evento">Horário do Evento</string>
+    <string name="hint_horario_evento">Clique aqui para definir o horário</string>
+    <string name="data_evento">Data do Evento</string>
+    <string name="hint_data_evento">Clique aqui para definir a data</string>
+
+    <string name="dialogNome">Nome</string>
+    <string name="hintDialogNome">Ex. Evangelização</string>
+    <string name="dialogQtade">Quantidade</string>
+    <string name="hintDialogQtade">Ex. 1</string>
+    <string name="dialogTitulo">Novo Trabalho</string>
+    <string name="dialogExecption">Ops, algum campo não foi preenchido</string>
+
+    <string name="delete">Deletar</string>
+    <string name="mensagem_lixo_evento">\tPara inserir novo evento clique no lápis.\n
+        \tPara deletar arraste o evento para a direita ou esquerda</string>
+    <string name="mensagem_lixo_trabalho">\tPara inserir novo trabalho clique no lápis.\n
+        \tPara deletar arraste o trabalho para a direita ou esquerda</string>
+
+    <string name="key_nome_perfil">nome</string>
+    <string name="key_nome_presidium">presidium</string>
+    <string name="key_foto_perfil">foto</string>
+    <string name="key_foto_modificada">modificou</string>
+
+    <string name="foto_perfil">Foto de Perfil</string>
+    <string name="nome_usuario">Nome do usuário</string>
+    <string name="nome_setting_dialog">Digite seu nome</string>
+    <string name="nome_praesidium">Nome do Praesidium</string>
+    <string name="nome_paesidium_settings_dialog">Digite o nome do seu praesidium</string>
+
+
+    <string name="default_nome_perfil">Coloque seu nome e de seu praesidium</string>
+    <string name="default_nome_presidium">em Configurações do Legionario</string>
+    <string name="default_summary_foto">Defina sua foto de perfil</string>
+
+    <string name="content_description">Foto de perfil</string>
+
+    <string-array name="tercos">
+        <item>Gozoso</item>
+        <item>Glorioso</item>
+        <item>Luminoso</item>
+        <item>Doloroso</item>
+    </string-array>
+
+    <string-array name="oracoes">
+        <item>Iniciais</item>
+        <item>Catena</item>
+        <item>Finais</item>
+    </string-array>
+
+    <string name="eventos">Eventos</string>
+
+    <string-array name="Gozoso">
+        <item>Segunda-Feira e Sábado</item>
+        <item>1º Mistério: Anunciação do Anjo a Maria</item>
+        <item>2º Mistério: Visitação de Maria a sua prima Santa Isabel</item>
+        <item>3º Mistério: Nascimento de Jesus</item>
+        <item>4º Mistério: Apresentação de Jesus</item>
+        <item>5º Mistério: Encotro de Jesus no Templo</item>
+    </string-array>
+
+    <string-array name="Luminoso">
+        <item>Quinta-Feira</item>
+        <item>1º Mistério: Batismo de Jesus</item>
+        <item>2º Mistério: Jesus nas Bodas de Caná</item>
+        <item>3º Mistério: O anúncio do Reino e o convite à conversão</item>
+        <item>4º Mistério: A Transfiguração de Cristo</item>
+        <item>5º Mistério: A instituição da Eucaristia</item>
+    </string-array>
+
+    <string-array name="Doloroso">
+        <item>Terça e Sexta-Feira</item>
+        <item>1º Mistério: Agonia de Jesus</item>
+        <item>2º Mistério: Flagelaçãode Jesus</item>
+        <item>3º Mistério: Coroação de espinhos</item>
+        <item>4º Mistério: Agonia de Jesus</item>
+        <item>5º Mistério: Morte de Jesus</item>
+    </string-array>
+
+    <string-array name="Glorioso">
+        <item>Quarta-Feira e Domingo</item>
+        <item>1º Mistério: Ressureição de Jesus</item>
+        <item>2º Mistério: Ascensão de Jesus</item>
+        <item>3º Mistério: Vinda do Espírito Santo</item>
+        <item>4º Mistério: Assunção de Nossa Senhora</item>
+        <item>5º Mistério: Coroação de Nossa Senhora</item>
+    </string-array>
+
+    <string name="oracoes_iniciais">
+        Em nome do Pai e do Filho e do Espírito Santo. Amém.\n\n
+        P. Vinde, Espírito Santo, enchei os corações dos Vossos fiéis e acendei neles o fogo do Vosso amor, enviai, Senhor, o Vosso Espírito e tudo será criado.\n
+        R. E renovareis a face da terra.\n\n
+        P. Oremos: ó Deus que santificais a Vossa Igreja inteira, em todos os povos e nações, derramai por toda a extensão do mundo os dons do Espírito Santo e realizai agora no coração dos fiéis as maravilhas que operastes no início da pregação do Evangelho. Por Nosso Senhor Jesus Cristo, vosso Filho na unidade do Espírito Santo. Amém.\n\n
+        P. Abri os meus lábios, ó Senhor.\n
+        R. E minha boca anunciará o Vosso louvor.\n\n
+        P. Vinde, ó Deus, em meu auxílio.\n
+        R. Socorrei-me sem demora.\n\n
+        P. Glória ao Pai e ao Filho e ao Espírito Santo.\n
+        R. Como era no princípio, agora e sempre. Amém.\n\n
+
+        (Segue-se o Rosário, terminado pela Salve Rainha).\n\n
+
+        P. Rogai por nós, Santa Mãe de Deus.\n
+        R. Para que sejamos dignos das promessas de Cristo.\n\n
+        P. Oremos: Ó Deus, cujo Filho Unigênito, por Sua vida, morte e ressurreição, nos obteve o
+        prêmio da salvação eterna, concedei-nos, nós Vô-lo pedimos que, meditando estes mistérios
+        do Sacratíssimo Rosário da Bem-Aventurada Virgem Maria, imitemos o que contêm e
+        consigamos o que prometem. Pelo mesmo Cristo, Senhor Nosso. Amém.\n\n
+        P. Coração Sacratíssimo de Jesus\n
+        R. Tende piedade de nós.\n
+        P. Coração Imaculado de Maria.\n
+        R. Rogai por nós.\n
+        P. São José.\n
+        R. Rogai por nós.\n
+        P. São João Evangelista.\n
+        R. Rogai por nós\n
+        P. São Luís Maria de Montfort.\n
+        R. Rogai por nós.\n\n
+        Em nome do Pai e do Filho e do Espírito Santo. Amém.
+    </string>
+
+
+    <string name="catena">
+        Antífona: Quem é esta que avança como a aurora, formosa como a lua, brilhante como o sol, terrível como o exército em ordem de batalha?\n\n
+        - A minha alma engrandece ao Senhor*\n
+        - E se alegra o meu espírito em Deus, meu Salvador,\n
+        - Pois ele viu a pequenez de sua serva,* eis que agora as gerações hão de chamar-me de bendita.\n
+        - O Poderoso fez por mim maravilhas* e Santo é o seu nome!\n
+        - Seu amor de geração em geração* chega a todos que o respeitam.\n
+        - Demonstrou o poder de seu braço* dispersou os orgulhosos.\n
+        - Derrubou os poderosos de seus tronos* e os humildes exaltou.\n
+        - De bens saciou os famintos* e despediu sem nada os ricos.\n
+        - Acolheu Israel seu servidor, * fiel ao seu amor,\n
+        - Como havia prometido a nossos pais * em favor de Abraão e de seus filhos, para sempre.\n
+        - Glória ao Pai e ao Filho e ao Espírito Santo*\n
+        - Como era no princípio, agora e sempre. Amém\n\n
+        Antífona: Quem é esta que avança como a aurora, formosa como a lua, brilhante como o sol, terrível como o exército em ordem de batalha?\n\n
+        P.: Ó Maria concebida sem pecado,\n
+        R.: Rogai por nós que recorremos a Vós.\n\n
+        P.: OREMOS: Senhor Jesus Cristo, Mediador nosso perante o Pai, que Vos dignastes escolher a Virgem Santíssima, Vossa Mãe,
+        para Mãe e Medianeira nossa junto de Vós, concedei misericordiosamente a quem a Vós recorrer, buscando os
+        Vosso favores, se regozije de os receber todos por Ela. Amém.
+    </string>
+
+    <string name="oracoes_finais">
+        Em nome do Pai e do Filho e do Espírito Santo. Amém.\n\n
+        P.: À Vossa proteção recorremos, Santa Mãe de Deus, não desprezeis as súplicas que em nossas necessidades vos dirigimos,
+                mas livrai-nos sempre de todos os perigos, ó Virgem gloriosa e bendita.\n\n
+        P.: (Invocação própria do Praesidium).\n
+        P.: Maria Imaculada, Medianeira de todas as graças.\n
+        R.: Rogai por nós.\n
+        P.: S. Miguel e S. Gabriel,
+        R.: Rogai por nós.\n
+        P.: Milícias todas do céu, Legião dos anjos de Maria.\n
+        R.: Rogai por nós.\n
+        P.: São João Batista.\n
+        R.: Rogai por nós.\n
+        P.: S. Pedro e S. Paulo.\n
+        R.: Rogai por nós.\n\n
+        Concedei-nos Senhor, a nós que militamos sob o estandarte da Virgem, aquela plenitude de fé em Vós e de confiança em Maria, que nos assegurem a conquista do mundo.
+                Dai-nos uma fé viva, animada pela caridade, que nos leve a praticar as nossas ações, unicamente por amor de Vós e a ver-Vos e a servir-Vos sempre no nosso próximo;
+                uma fé firme e inabalável como a rocha, que nos conserve calmos e resolutos no meio das cruzes, trabalhos e decepções da vida;
+                uma fé corajosa, que nos anime a empreender e a prosseguir, sem hesitação, grandes coisas, por Vossa glória e pela salvação do próximo;
+                uma fé que seja a Coluna de Fogo da nossa Legião que nos guie avante unidos, – para acender em todos a chama do Amor divino,
+                – iluminar os que estão nas trevas e sombras da morte, – animar os indecisos, – restituir a vida aos mortos no pecado; e nos dirija os passos no caminho da paz;
+                de forma que, terminada a batalha da vida, a nossa Legião possa reunir-se sem uma só perda, no Reino de Vosso Amor e Glória. Amém.\n\n
+        P.: Que as almas dos Legionários e de todos os fiéis defuntos, pela misericórdia de Deus, descansem em paz. Amém.\n\n
+        Em nome do Pai e do Filho e do Espírito Santo. Amém
+    </string>
+
+    <string name="oracao_frank_duff">
+        Deus Pai,\n\n
+        Vós inspirastes ao vosso servo Frank Duff,
+        um profundo discernimento do mistério de vossa Igreja,
+        Corpo de Cristo, e do lugar de Maria, Mãe de Jesus, nesse mistério.\n\n
+        Em seu imenso desejo de compartilhar esse discernimento com outros e,
+        com filial confiança em Maria, ele fundou uma Legião,
+        para ser um sinal do maternal Amor da Virgem pelo mundo
+        e um meio de engajar todos os seus filhos no trabalho de evangelização da Igreja.\n\n
+        Nós vos agradecemos, Pai, pelas graças a ele concedidas e pelos benefícios advindos à Igreja,
+        por sua corajosa e radiante fé.\n\n
+        Agora, confiadamente, rogamos que, por sua intercessão, nos concedais a graça que agora vos suplicamos....\n\n
+        Humildemente vos pedimos, também que, se de acordo com Vossa Vontade,
+        a santidade de sua vida possa ser reconhecida pela Igreja,
+        o mais breve possível, para a glória de Vosso Nome.\n\n
+        É o que vos pedimos,\n\n
+        por Cristo, Nosso Senhor,\n\n
+        Amém.
+    </string>
+
+    <string name="ordem_da_reuniao">
+        1- Orações Iniciais da Téssera\n\n
+        2- Leitura Espiritual\n\n
+        3- Leitura da Ata\n\n
+        4- Instrução Permanente (na primeira semana do mês ou se houver membro novo)\n\n
+        5- Chamada e Acolhida\n\n
+        6- Relatório da Tesouraria\n\n
+        7- Apresentação dos Relatórios dos Trabalhos\n\n
+        8- Catena - Alocução\n\n
+        9- Coleta Secreta\n\n
+        10- Continuação da Apresentação dos Relatórios (se necessário)\n\n
+        11- Distribuição dos Trabalhos\n\n
+        12- Estudo do Manual\n\n
+        13- Notícias do Conselho\n\n
+        14- Assuntos Diversos, recomendações, esclarecimentos, avisos paroquiais, etc\n\n
+        15- Orações Finais e Benção do Diretor Espiritual
+    </string>
+
+</resources>

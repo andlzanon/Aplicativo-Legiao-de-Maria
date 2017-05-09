@@ -1,0 +1,285 @@
+<resources>
+    <string name="app_name">Legio Mariae</string>
+
+    <string name="opcao_eventos">Events</string>
+    <string name="opcao_terco">Rosary</string>
+    <string name="opcao_oracoes">Tessera</string>
+    <string name="opcao_trabalhos">Works</string>
+    <string name="opcao_ordemReuniao">Meeting</string>
+    <string name="opcao_oracaoFrank">Prayer for Frank Duff</string>
+    <string name="opcao_settings">Settings</string>
+
+    <string name="activity_novo_evento">New Event</string>
+    <string name="salvar">Save</string>
+    <string name="cancelar">Cancel</string>
+
+    <string name="nome_evento">Name of the Event</string>
+    <string name="hint_nome_evento">Type the name</string>
+    <string name="local_evento">Location</string>
+    <string name="hint_local_evento">Type the name of the location</string>
+    <string name="horario_evento">Time</string>
+    <string name="hint_horario_evento">Click here to set the time</string>
+    <string name="data_evento">Date</string>
+    <string name="hint_data_evento">Click here to set the date</string>
+
+    <string name="dialogNome">Name</string>
+    <string name="hintDialogNome">Ex. Evangelization</string>
+    <string name="dialogQtade">Quantity</string>
+    <string name="hintDialogQtade">Ex. 1</string>
+    <string name="dialogTitulo">New Work</string>
+    <string name="dialogExecption">Ops, a field was not filled</string>
+
+    <string name="delete">Delete</string>
+    <string name="mensagem_lixo_evento">\tTo insert a new event click on the pencil.\n
+        \tTo delte the event drag the event to the left or right</string>
+    <string name="mensagem_lixo_trabalho">\tTo insert a new work click on the pencil.\n
+        \tTo delte the event drag the work to the left or right</string>
+
+    <string name="key_nome_perfil">nome</string>
+    <string name="key_nome_presidium">presidium</string>
+    <string name="key_foto_perfil">foto</string>
+    <string name="key_foto_modificada">modificou</string>
+
+    <string name="foto_perfil">Profile Photo</string>
+    <string name="nome_usuario">Name of the User</string>
+    <string name="nome_setting_dialog">Type your name</string>
+    <string name="nome_praesidium">Name of the Praesidium</string>
+    <string name="nome_paesidium_settings_dialog">Type the name of your praesidium</string>
+
+
+    <string name="default_nome_perfil">Set your name and of your praesidium</string>
+    <string name="default_nome_presidium">on Settings</string>
+    <string name="default_summary_foto">Set yout profile picture</string>
+
+    <string name="content_description">Profile Picture</string>
+
+    <string-array name="tercos">
+        <item>Joyful</item>
+        <item>Glorious</item>
+        <item>Luminous</item>
+        <item>Sorroyful</item>
+    </string-array>
+
+    <string-array name="oracoes">
+        <item>Opening</item>
+        <item>Catena</item>
+        <item>Concluding</item>
+    </string-array>
+
+    <string name="eventos">Eventos</string>
+
+    <string-array name="Gozoso">
+        <item>Monday and Saturday</item>
+        <item>1st Mystery: The Annunciation of the Lord to Mary</item>
+        <item>2nd Mystery: The Visitation of Mary to Elizabeth</item>
+        <item>3rd Mystery: The Nativity of our Lord Jesus Christ</item>
+        <item>4th Mystery: The Presentation of our Lord</item>
+        <item>5th Mystery: Finding Jesus in the Temple at age 12</item>
+    </string-array>
+
+    <string-array name="Luminoso">
+        <item>Thursday</item>
+        <item>1st Mystery: The Baptism in the Jordan</item>
+        <item>2nd Mystery: The Wedding at Cana</item>
+        <item>3rd Mystery: The Proclamation of the Kingdom</item>
+        <item>4th Mystery: The Transfiguration</item>
+        <item>5th Mystery: The Institution of the Eucharist</item>
+    </string-array>
+
+    <string-array name="Doloroso">
+        <item>Tuesday and Friday</item>
+        <item>1st Mystery: The Agony of Jesus in the Garden</item>
+        <item>2nd Mystery: The Scourging at the Pillar</item>
+        <item>3rd Mystery: Jesus is Crowned with Thorns</item>
+        <item>4th Mystery: Jesus Carried the Cross</item>
+        <item>5th Mystery: The Crucifixion of our Lord</item>
+    </string-array>
+
+    <string-array name="Glorioso">
+        <item>Wednesday and Sunday</item>
+        <item>1st Mystery: The Resurrection of Jesus Christ</item>
+        <item>2nd Mystery: The Ascension of Jesus to Heaven</item>
+        <item>3rd Mystery: The Descent of the Holy Ghost</item>
+        <item>4th Mystery: The Assumption of Mary into Heaven</item>
+        <item>5th Mystery: Mary is Crowned as Queen of Heaven and Earth</item>
+    </string-array>
+
+    <string name="oracoes_iniciais">
+        In the name of the Father, etc.\n
+        Come, O Holy Spirit, fill the hearts of your faithful, and
+        enkindle in them the fire of your love.\n\n
+        V/. Send forth your Spirit, and they shall be created.\n
+        R/. And you shall renew the face of the earth.\n\n
+
+        Let us pray\n\n
+        God our Father, pour out the gifts of your Holy Spirit on
+        the world. You sent the Spirit on your Church to begin the
+        teaching of the gospel: now let the Spirit continue to work in
+        the world through the hearts of all who believe. Through
+        Christ our Lord. Amen.\n\n
+        V/. You, O Lord, will open my lips.\n
+        R/. And my tongue shall announce your praise.\n\n
+        V/. Incline unto my aid, O God.\n
+        R/. O Lord, make haste to help me.\n\n
+        V/. Glory be to the Father, etc.\n
+        R/. As it was in the beginning, etc.\n\n
+
+        (Then follow five decades of the rosary with the Hail, Holy Queen!)\n\n
+
+        V/. Pray for us, O holy Mother of God.\n
+        R/. That we may be made worthy of the promises of Christ.
+        Let us pray\n\n
+        O God, whose only-begotten Son, by his life, death and
+        resurrection, has purchased for us the rewards of eternal
+        salvation; grant, we beseech you, that meditating upon these
+        mysteries in the most holy rosary of the Blessed Virgin Mary,
+        we may imitate what they contain, and obtain what they
+        promise. Through the same Christ our Lord. Amen.\n\n
+        V/. Most Sacred Heart of Jesus\n
+        R/. Have mercy on us.\n
+        V/. Immaculate Heart of Mary\n
+        R/. Pray for us.\n
+        V/. St. Joseph\n
+        R/. Pray for us.\n
+        V/. St. John the Evangelist\n
+        R/. Pray for us.\n
+        V/. St. Louis-Marie de Montfort\n
+        R/. Pray for us.\n\n
+        In the name of the Father, etc
+    </string>
+
+
+    <string name="catena">
+        Antiphon. Who is she that comes forth as the morning
+        rising, fair as the moon, bright as the sun, terrible as an army
+        set in battle array?\n\n
+
+        My soul glorifies the Lord,*
+        my spirit rejoices in God, my Saviour.
+        He looks on his servant in her lowliness;*
+        henceforth all ages will call me blessed.\n\n
+
+        The Almighty works marvels for me.*
+        Holy his name!
+        His mercy is from age to age,*
+        on those who fear him.\n\n
+
+        He puts forth his arm in strength*
+        and scatters the proud-hearted.
+        He casts the mighty from their thrones*
+        and raises the lowly.\n\n
+
+        He fills the starving with good things,*
+        sends the rich away empty.\n\n
+
+        He protects Israel, his servant,*
+        remembering his mercy,
+        the mercy promised to our fathers,*
+        to Abraham and his sons for ever.\n\n
+
+        Glory be to the Father, and to the Son, and to the Holy
+        Spirit. As it was in the beginning, is now, and ever shall be, world
+        without end, Amen.\n\n
+
+        Antiphon. Who is she that comes forth as the morning
+        rising, fair as the moon, bright as the sun, terrible as an army
+        set in battle array?\n\n
+
+        V/. O Mary, conceived without sin.\n
+        R/. Pray for us who have recourse to you.\n\n
+
+        Let us pray\n\n
+
+        O Lord Jesus Christ, our mediator with the Father, you have
+        been pleased to appoint the most Blessed Virgin, your Mother,
+        to be our mother also, and our mediatrix with you, mercifully
+        grant that whoever comes to you seeking your favours may
+        rejoice to receive all of them through her. Amen.
+    </string>
+
+    <string name="oracoes_finais">
+        In the name of the Father, etc.\n\n
+        We fly to your patronage, O Holy Mother of God; despise
+        not our prayers in our necessities, but ever deliver us from all
+        dangers, O glorious and blessed Virgin.\n\n
+        V/. (Invocation appropriate to praesidium)
+        R/. Pray for us.\n
+        V/. Mary Immaculate, Mediatrix of all Graces\n
+        R/. Pray for us.\n
+        V/. St. Michael and St. Gabriel\n
+        R/. Pray for us.\n
+        V/. All you heavenly Powers, Mary\'s Legion
+        of Angels\n
+        R/. Pray for us.\n
+        V/. St. John the Baptist\n
+        R/. Pray for us.\n
+        V/. Saints Peter and Paul\n
+        R/. Pray for us\n
+
+        Confer, O Lord, on us,
+        Who serve beneath the standard of Mary,
+        That fullness of faith in you and trust in her,
+        To which it is given to conquer the world.
+        Grant us a lively faith, animated by charity,
+        Which will enable us to perform all our actions
+        From the motive of pure love of you,
+        And ever to see you and serve you in our neighbour;
+        A faith, firm and immovable as a rock,
+        Through which we shall rest tranquil and steadfast
+        Amid the crosses, toils and disappointments of life;
+        A courageous faith which will inspire us
+        To undertake and carry out without hesitation
+        Great things for your glory and for the salvation of souls;
+        A faith which will be our Legion\'s Pillar of Fire —
+        To lead us forth united —
+        To kindle everywhere the fires of divine love—
+        To enlighten those who are in darkness and in the shadow
+        of death—
+        To inflame those who are lukewarm—
+        To bring back life to those who are dead in sin;
+        And which will guide our own feet in the way of peace;
+        So that — the battle of life over —
+        Our Legion may reassemble,
+        Without the loss of any one,
+        In the kingdom of your love and glory. Amen.\n\n
+
+        May the souls of our departed legionaries
+        And the souls of all the faithful departed
+        Through the mercy of God rest in peace. Amen.\n\n
+
+        In the name of the Father, etc.
+    </string>
+
+    <string name="oracao_frank_duff">
+        God our Father,\n\n
+        You inspired your servant Frank Duff with a profound insight into the mystery of your Church,
+        the Body of Christ, and of the place of Mary, the Mother of Jesus in this mystery.\n\n
+        In his immense desire to share this insight with others, and in filial dependence on Mary,
+        he formed her Legion to be a sign of her maternal love for the world, and a means of enlisting
+        all her children in the Church\'s evangelizing work.\n\n
+        We thank you Father, for the graces conferred on him, and for the benefits accruing to the Church from
+        his courageous and shining faith.\n\n
+        With confidence we beg you, that through his intercession you grant the petititon we lay before you.....\n\n
+        We ask too, that if it be in accordance with your will, the holiness of his life may be acknowledged by the Church for the glory of your Name,\n\n
+        through Christ Our Lord,\n\n
+        Amen.
+    </string>
+
+    <string name="ordem_da_reuniao">
+        1- Opening Prayers\n\n
+        2- Spiritual Reading\n\n
+        3- Minutes of the previous meeting \n\n
+        4- Standing Instructions\n\n
+        5- Welcome to new candidates and visitors and roll call\n\n
+        6- Treasurer\'s Report \n\n
+        7- Reports by each member\n\n
+        8- Catena - Allocutio\n\n
+        9- The Secret Bag is passed \n\n
+        10- Continuation of the Reports on assigned works\n\n
+        11- President gives teams their work assignments \n\n
+        12- Handbook Study\n\n
+        13- Other Business\n\n
+        14- Concluding Prayers from the Tessera, and the final blessing from the Priest
+    </string>
+
+</resources>

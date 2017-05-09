@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Perfil"
+        android:key="pref_category_perfil">
+
+        <Preference
+            android:title="@string/foto_perfil"
+            android:key="@string/key_foto_perfil"
+            android:defaultValue="Default"
+            android:summary="@string/default_summary_foto">
+            <intent android:action="andl.zanon.MUDA_FOTO"/>
+        </Preference>
+
+        <CheckBoxPreference
+            android:title="First"
+            android:key="@string/key_foto_modificada"
+            android:defaultValue="false" />
+
+        <EditTextPreference
+            android:title="@string/nome_usuario"
+            android:key="@string/key_nome_perfil"
+            android:dialogTitle="@string/nome_setting_dialog"
+            android:defaultValue="@string/default_nome_perfil"/>
+
+        <EditTextPreference
+            android:title="@string/nome_praesidium"
+            android:key="@string/key_nome_presidium"
+            android:dialogTitle="@string/nome_paesidium_settings_dialog"
+            android:defaultValue="@string/default_nome_presidium"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
